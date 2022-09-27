@@ -1,0 +1,26 @@
+#videoPlayer{
+    /* border: 1px solid red; */
+    width: 500px;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.textDiv{
+    /* border: 1px solid red; */
+    text-align: left;
+    /* padding: 10px; */
+}
+.title{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.channelName{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    /* text-align: center; */
+}
